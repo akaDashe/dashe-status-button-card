@@ -1,4 +1,4 @@
-# Status Button Card by Dashe
+# Status Button Card by akaDashe
 
 [![HACS][hacs-badge]][hacs-url]
 [![Build][build-badge]][build-url]
@@ -25,7 +25,7 @@ A customisable button card for [Home Assistant](https://www.home-assistant.io/) 
 
 1. Open HACS in your Home Assistant instance
 2. Go to **Frontend** > **+ Explore & Download Repositories**
-3. Search for **Status Button Card by Dashe**
+3. Search for **Status Button Card by akaDashe**
 4. Click **Download**
 5. Restart Home Assistant
 

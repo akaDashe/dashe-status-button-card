@@ -232,7 +232,7 @@ export class StatusButtonCard extends LitElement {
 (window as any).customCards = (window as any).customCards || [];
 (window as any).customCards.push({
   type: CARD_TAG,
-  name: "Status Button Card by Dashe",
+  name: "Status Button Card by akaDashe",
   description:
     "A customisable button card focused on entity status with state-based icons, colors, and labels",
   preview: true,

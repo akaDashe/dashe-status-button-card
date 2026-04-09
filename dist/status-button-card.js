@@ -460,4 +460,4 @@ function t(t,e,i,s){var n,a=arguments.length,o=a<3?e:null===s?s=Object.getOwnPro
           ${l?B`<span class="btn-label" style="color: ${i}">${n}</span>`:q}
         </div>
       </ha-card>
-    `}};t([pt({attribute:!1})],Vt.prototype,"hass",void 0),t([ut()],Vt.prototype,"_config",void 0),Vt=t([ct(ft)],Vt),window.customCards=window.customCards||[],window.customCards.push({type:ft,name:"Status Button Card by Dashe",description:"A customisable button card focused on entity status with state-based icons, colors, and labels",preview:!0});export{Vt as StatusButtonCard};
+    `}};t([pt({attribute:!1})],Vt.prototype,"hass",void 0),t([ut()],Vt.prototype,"_config",void 0),Vt=t([ct(ft)],Vt),window.customCards=window.customCards||[],window.customCards.push({type:ft,name:"Status Button Card by akaDashe",description:"A customisable button card focused on entity status with state-based icons, colors, and labels",preview:!0});export{Vt as StatusButtonCard};
